@@ -4,17 +4,20 @@ Information site repository using [Jekyll](http://jekyllrb.com).
 
 ## How to develop
 
-Modify `index.markdown`, `_layouts/index.html` or etc.
-
 ```sh
-git clone git@github.com:tokushimarb/tokushimarb.github.io.git
+git clone https://github.com/tokushimarb/tokushimarb.github.io
 # or
-#git clone https://github.com/tokushimarb/tokushimarb.github.io
+git clone git://github.com/tokushimarb/tokushimarb.github.io
+# or
+git clone git@github.com:tokushimarb/tokushimarb.github.io.git
 
 cd tokushimarb.github.io
 bundle install
+rbenv rehash # if using "rbenv"
 jekyll server --watch
 ```
+
+Modify `index.markdown`, `_layouts/index.html` or etc.
 
 Open `http://localhost:4000` with you browser.
 
