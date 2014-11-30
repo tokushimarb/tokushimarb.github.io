@@ -14,7 +14,7 @@ layout: index
 * [Ruby入門](http://kaosf.github.io/20140831-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [Ruby超入門](http://kaosf.github.io/20140928-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) by [ka](http://www.kaosfield.net)
-
+* [Rubyを使ったスマホアプリのUIテスト](https://www.slideshare.net/secret/d0MkzQdiT8cQIK) by [辰濱](https://www.facebook.com/kenichi.tatsuhama)
 
 ## Other sites
 
