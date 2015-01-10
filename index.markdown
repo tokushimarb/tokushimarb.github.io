@@ -9,6 +9,7 @@ layout: index
 * [第3回](https://www.facebook.com/events/313936528779039)
 * [第4回](https://www.facebook.com/events/390706191084138)
 * [第5回](https://www.facebook.com/events/1568168673416935)
+* [第6回](https://www.facebook.com/events/987665551249945)
 
 ## Slides
 
