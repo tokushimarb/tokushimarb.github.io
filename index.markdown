@@ -5,7 +5,7 @@ layout: index
 ## Tokushima.rb
 
 徳島県内における Ruby の普及を目的に、
-毎月、徳島マルシェの開催される最終日曜日の 10:00 〜 16:00 に、ゆる〜く開催しています。
+毎月、徳島マルシェの開催される最終日曜日の 10:00 〜 16:00 に、[ねすとラボ](http://nest-lab.net) でゆる〜く開催しています。
 
 [Facebook Page](https://www.facebook.com/groups/tokushima.rb) で、イベントの開催を告知しています。Facebook アカウントをお持ちでない方も気軽に参加してくださいね。
 
