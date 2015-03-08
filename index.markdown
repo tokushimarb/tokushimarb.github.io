@@ -30,3 +30,8 @@ layout: index
 * [Ruby超入門](http://kaosf.github.io/20140928-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [Rubyを使ったスマホアプリのUIテスト](https://www.slideshare.net/secret/d0MkzQdiT8cQIK) by [辰濱](https://www.facebook.com/kenichi.tatsuhama)
+
+## 関連
+
+* [第7回 とくしまOSS勉強会 2015/03/20 18:00 - 20:00](http://www.tokushima-oss.org/docs/2015021800018/) @ [とくぎんトモニプラザ](http://www.tokuginplaza.com/own/index.asp) 4階 会議室3
+* [第1回 徳島スマホアプリ開発勉強会 2015/03/15 10:00 - 16:00](http://tokushima-app.connpass.com/event/12115/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
