@@ -22,6 +22,7 @@ layout: index
 * [第5回](https://www.facebook.com/events/1568168673416935)
 * [第6回](https://www.facebook.com/events/987665551249945)
 * [第7回](https://www.facebook.com/events/406653309501649)
+* [第8回 2015/03/29 10:00 - 16:00](https://www.facebook.com/events/1423946384565860) @ [ねすとラボ](http://nest-lab.net)
 
 ## Slides
 
