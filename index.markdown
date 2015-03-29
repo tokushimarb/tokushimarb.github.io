@@ -15,18 +15,15 @@ layout: index
 
 ## Events
 
-* [第1回](https://www.facebook.com/events/544970482270376)
-* [第2回](https://www.facebook.com/events/354008238090309)
-* [第3回](https://www.facebook.com/events/313936528779039)
-* [第4回](https://www.facebook.com/events/390706191084138)
-* [第5回](https://www.facebook.com/events/1568168673416935)
-* [第6回](https://www.facebook.com/events/987665551249945)
-* [第7回](https://www.facebook.com/events/406653309501649)
-* [第8回 2015/03/29 10:00 - 16:00](https://www.facebook.com/events/1423946384565860) @ [ねすとラボ](http://nest-lab.net)
 * [第9回 2015/04/26 10:00 - 16:00](https://www.facebook.com/events/568524076618080/) @ [ねすとラボ](http://nest-lab.net)
+* [第8回 2015/03/29 10:00 - 16:00](https://www.facebook.com/events/1423946384565860) @ [ねすとラボ](http://nest-lab.net)
+* [第7回 2015/02/22 10:00 - 16:00](https://www.facebook.com/events/406653309501649) @ [ねすとラボ](http://nest-lab.net)
+* [第6回 2015/01/25 10:00 - 16:00](https://www.facebook.com/events/987665551249945) @ [ねすとラボ](http://nest-lab.net)
+* [2014 年の Tokushima.rb](2014.markdown)
 
 ## Slides
 
+* [RSpec の便利機能と SHIRASAGI に Database Cleaner を導入した話](https://sunny4381.github.io/remark.js/index.html?/slides/2015-03-29/rspec-extension.md)
 * [Ruby入門](http://kaosf.github.io/20140831-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [Ruby超入門](http://kaosf.github.io/20140928-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) by [ka](http://www.kaosfield.net)
