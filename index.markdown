@@ -19,7 +19,7 @@ layout: index
 * [第8回 2015/03/29 10:00 - 16:00](https://www.facebook.com/events/1423946384565860) @ [ねすとラボ](http://nest-lab.net)
 * [第7回 2015/02/22 10:00 - 16:00](https://www.facebook.com/events/406653309501649) @ [ねすとラボ](http://nest-lab.net)
 * [第6回 2015/01/25 10:00 - 16:00](https://www.facebook.com/events/987665551249945) @ [ねすとラボ](http://nest-lab.net)
-* [2014 年の Tokushima.rb](2014.markdown)
+* [2014 年の Tokushima.rb](2014.html)
 
 ## Slides
 
