@@ -29,6 +29,12 @@ layout: index
 * [method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [Rubyを使ったスマホアプリのUIテスト](https://www.slideshare.net/secret/d0MkzQdiT8cQIK) by [辰濱](https://www.facebook.com/kenichi.tatsuhama)
 
+## Codes
+
+* [Ruby入門](https://github.com/kaosf/20140831-tokushimarb-codes) by [ka](http://www.kaosfield.net)
+* [method_missing](https://github.com/kaosf/20141026-tokushimarb-codes) by [ka](http://www.kaosfield.net)
+* [RSpec練習](https://github.com/kaosf/20150329-tokushimarb-rspec) by [ka](http://www.kaosfield.net)
+
 ## 関連
 
 * [第2回 徳島スマホアプリ開発勉強会 2015/04/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/13225/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
