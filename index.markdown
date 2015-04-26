@@ -34,6 +34,7 @@ layout: index
 * [Ruby入門](https://github.com/kaosf/20140831-tokushimarb-codes) by [ka](http://www.kaosfield.net)
 * [method_missing](https://github.com/kaosf/20141026-tokushimarb-codes) by [ka](http://www.kaosfield.net)
 * [RSpec練習](https://github.com/kaosf/20150329-tokushimarb-rspec) by [ka](http://www.kaosfield.net)
+* [とりあえずRails](https://github.com/kaosf/20150426-tokushimarb-rails) by [ka](http://www.kaosfield.net)
 
 ## 関連
 
