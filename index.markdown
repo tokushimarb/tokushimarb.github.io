@@ -39,6 +39,7 @@ layout: index
 
 ## 関連
 
+* [第3回 徳島スマホアプリ開発勉強会 2015/06/07 10:00 - 16:00](http://tokushima-app.connpass.com/event/15717/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第2回 徳島スマホアプリ開発勉強会 2015/04/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/13225/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第7回 とくしまOSS勉強会 2015/03/20 18:00 - 20:00](http://www.tokushima-oss.org/docs/2015021800018/) @ [とくぎんトモニプラザ](http://www.tokuginplaza.com/own/index.asp) 4階 会議室3
 * [第1回 徳島スマホアプリ開発勉強会 2015/03/15 10:00 - 16:00](http://tokushima-app.connpass.com/event/12115/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
