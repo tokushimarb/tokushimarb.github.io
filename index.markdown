@@ -15,6 +15,11 @@ layout: index
 
 ## Events
 
+次回の Tokushima.rb は第11回 - 6月28日の開催です。
+そして第12回（一周年記念）は、8月1日開催で、Ruby, Rails のコミッターである松田明さんにお越しいただく予定です。
+
+* [第12回(一周年記念) 2015/08/01 10:00 - 16:00](https://www.facebook.com/events/908460722528983/) @ [ねすとラボ](http://nest-lab.net)
+* [第11回 2015/06/28 10:00 - 16:00](https://www.facebook.com/events/857269521016584/) @ [ねすとラボ](http://nest-lab.net)
 * [第10回 2015/05/31 10:00 - 16:00](https://www.facebook.com/events/1445244589121300/) @ [ねすとラボ](http://nest-lab.net)
 * [第9回 2015/04/26 10:00 - 16:00](https://www.facebook.com/events/568524076618080/) @ [ねすとラボ](http://nest-lab.net)
 * [第8回 2015/03/29 10:00 - 16:00](https://www.facebook.com/events/1423946384565860) @ [ねすとラボ](http://nest-lab.net)
