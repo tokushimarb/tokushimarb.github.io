@@ -27,6 +27,23 @@ layout: index
 * [第6回 2015/01/25 10:00 - 16:00](https://www.facebook.com/events/987665551249945) @ [ねすとラボ](http://nest-lab.net)
 * [2014 年の Tokushima.rb](2014.html)
 
+Tokushima.rb では、[とくしまOSS普及協議会](http://www.tokushima-oss.org/)の皆様の協力のもと、
+[Ruby 集中講座](http://www.tokushima-oss.org/docs/2015061500015/)を開催します。
+
+* Ruby 講座 初級 2015/07/17 18:00 - 20:00
+* Ruby 講座 応用1 2015/07/31 18:00 - 20:00
+* Ruby 講座 応用2 2015/08/21 18:00 - 20:00
+* シラサギハンズオン 2015/09/11 18:00 - 20:00
+
+Ruby 講座 初級は、次のような内容でお届けする予定です。
+* Vagrant を用いた Ruby 開発環境構築
+* 基礎的なプログラミング
+* 応用プログラミング
+
+皆様、万障お繰り合わせの上ご参加下さい。
+
+※シラサギハンズオンは、株式会社ウェブチップ様が実施されます。
+
 ## Slides
 
 * [RSpec の便利機能と SHIRASAGI に Database Cleaner を導入した話](https://sunny4381.github.io/remark.js/index.html?/slides/2015-03-29/rspec-extension.md)
@@ -44,6 +61,7 @@ layout: index
 
 ## 関連
 
+* [第4回 徳島スマホアプリ開発勉強会 2015/07/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/16966/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第3回 徳島スマホアプリ開発勉強会 2015/06/07 10:00 - 16:00](http://tokushima-app.connpass.com/event/15717/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第2回 徳島スマホアプリ開発勉強会 2015/04/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/13225/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第7回 とくしまOSS勉強会 2015/03/20 18:00 - 20:00](http://www.tokushima-oss.org/docs/2015021800018/) @ [とくぎんトモニプラザ](http://www.tokuginplaza.com/own/index.asp) 4階 会議室3
