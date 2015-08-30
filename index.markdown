@@ -65,6 +65,7 @@ Ruby 講座 初級は、次のような内容でお届けする予定です。
 
 ## 関連
 
+* [第5回 徳島スマホアプリ開発勉強会 2015/09/06 10:00 - 16:00](http://tokushima-app.connpass.com/event/19489/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第4回 徳島スマホアプリ開発勉強会 2015/07/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/16966/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第3回 徳島スマホアプリ開発勉強会 2015/06/07 10:00 - 16:00](http://tokushima-app.connpass.com/event/15717/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第2回 徳島スマホアプリ開発勉強会 2015/04/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/13225/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
