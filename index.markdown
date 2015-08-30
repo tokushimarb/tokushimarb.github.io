@@ -54,6 +54,7 @@ Ruby 講座 初級は、次のような内容でお届けする予定です。
 * [Ruby超入門](http://kaosf.github.io/20140928-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [method_missing](http://kaosf.github.io/20141026-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 * [Rubyを使ったスマホアプリのUIテスト](https://www.slideshare.net/secret/d0MkzQdiT8cQIK) by [辰濱](https://www.facebook.com/kenichi.tatsuhama)
+* [ElixirとPhoenixの紹介](http://kaosf.github.io/20150830-tokushimarb-slide) by [ka](http://www.kaosfield.net)
 
 ## Codes
 
