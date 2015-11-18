@@ -17,7 +17,7 @@ layout: index
 
 次回の Tokushima.rb は第15回 - 10月25日の開催です。
 
-* 第16回 2015/11/29 10:00 - 16:00 @ [ねすとラボ](http://nest-lab.net)
+* [第16回 2015/11/29 10:00 - 16:00](http://tokushimarb.connpass.com/event/23111/) ([Facebook](https://www.facebook.com/events/1637460976519823/)) @ [ねすとラボ](http://nest-lab.net)
 * [第15回 2015/10/25 10:00 - 16:00](https://www.facebook.com/events/1648360962091234/) @ [ねすとラボ](http://nest-lab.net)
 * [第14回 2015/09/27 10:00 - 16:00](https://www.facebook.com/events/1651991315080184/) @ [ねすとラボ](http://nest-lab.net)
 * [第13回 2015/08/30 10:00 - 16:00](https://www.facebook.com/events/1462737444051631/) @ [ねすとラボ](http://nest-lab.net)
