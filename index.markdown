@@ -15,8 +15,9 @@ layout: index
 
 ## Events
 
-次回の Tokushima.rb は第15回 - 10月25日の開催です。
+次回の Tokushima.rb は第17回 - 12月27日の開催です。
 
+* 第17回 2015/12/27 10:00 - 16:00 @ [ねすとラボ](http://nest-lab.net)
 * [第16回 2015/11/29 10:00 - 16:00](http://tokushimarb.connpass.com/event/23111/) ([Facebook](https://www.facebook.com/events/1637460976519823/)) @ [ねすとラボ](http://nest-lab.net)
 * [第15回 2015/10/25 10:00 - 16:00](https://www.facebook.com/events/1648360962091234/) @ [ねすとラボ](http://nest-lab.net)
 * [第14回 2015/09/27 10:00 - 16:00](https://www.facebook.com/events/1651991315080184/) @ [ねすとラボ](http://nest-lab.net)
@@ -29,25 +30,6 @@ layout: index
 * [第7回 2015/02/22 10:00 - 16:00](https://www.facebook.com/events/406653309501649) @ [ねすとラボ](http://nest-lab.net)
 * [第6回 2015/01/25 10:00 - 16:00](https://www.facebook.com/events/987665551249945) @ [ねすとラボ](http://nest-lab.net)
 * [2014 年の Tokushima.rb](2014.html)
-
-Tokushima.rb では、[とくしまOSS普及協議会](http://www.tokushima-oss.org/)の皆様の協力のもと、
-[Ruby 集中講座](http://www.tokushima-oss.org/docs/2015061500015/)を開催します。
-
-* Ruby 講座 初級 2015/07/31 18:00 - 20:00
-* Ruby 講座 応用1 2015/08/21 18:00 - 20:00
-* Ruby 講座 応用2 2015/09/11 18:00 - 20:00
-* シラサギハンズオン 2015/09/25 18:00 - 20:00
-
-台風により順延していましたが日程が上記の通りとなりました。
-
-Ruby 講座 初級は、次のような内容でお届けする予定です。
-* Vagrant を用いた Ruby 開発環境構築
-* 基礎的なプログラミング
-* 応用プログラミング
-
-皆様、万障お繰り合わせの上ご参加下さい。
-
-※シラサギハンズオンは、株式会社ウェブチップ様が実施されます。
 
 ## Slides
 
@@ -68,6 +50,7 @@ Ruby 講座 初級は、次のような内容でお届けする予定です。
 
 ## 関連
 
+* [第6回 徳島スマホアプリ開発勉強会 2015/12/13 10:00 - 16:00](http://tokushima-app.connpass.com/event/23744/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第2回 神山.rb 2015/09/21 12:30 - 18:00](https://kamiyamarb.doorkeeper.jp/events/30803) @ [神山バレー・サテライトオフィス・コンプレックス](http://www.in-kamiyama.jp/kvsoc/)
 * [第5回 徳島スマホアプリ開発勉強会 2015/09/06 10:00 - 16:00](http://tokushima-app.connpass.com/event/19489/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
 * [第4回 徳島スマホアプリ開発勉強会 2015/07/12 10:00 - 16:00](http://tokushima-app.connpass.com/event/16966/) @ [aizyu tokushima basement](http://aizyu-tokushima.com/)
