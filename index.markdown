@@ -16,8 +16,9 @@ layout: index
 
 ## Events
 
-次回の Tokushima.rb は第18回 - 1月31日の開催です。
+次回の Tokushima.rb は第19回 - 2月28日の開催です。
 
+* [第19回 2016/2/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/26431/) ([Facebook](https://www.facebook.com/events/184437711917711/)) @ [ねすとラボ](http://nest-lab.net)
 * [第18回 2016/1/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/24728/) ([Facebook](https://www.facebook.com/events/1699089430334454/)) @ [ねすとラボ](http://nest-lab.net)
 * [第17回 2015/12/27 10:00 - 16:00](http://tokushimarb.connpass.com/event/24214/) ([Facebook](https://www.facebook.com/events/888445251271189/)) @ [ねすとラボ](http://nest-lab.net)
 * [第16回 2015/11/29 10:00 - 16:00](http://tokushimarb.connpass.com/event/23111/) ([Facebook](https://www.facebook.com/events/1637460976519823/)) @ [ねすとラボ](http://nest-lab.net)
