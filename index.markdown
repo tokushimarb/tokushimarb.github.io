@@ -18,6 +18,14 @@ layout: index
 
 次回の Tokushima.rb は第21回 - 4月24日の開催です。
 
+### 告知
+
+第21回Tokushima.rbでは、久しぶりにRails入門やります。
+AWSとHerokuのアカウントを取得してくることを推奨します。
+
+申し込み無しで来ても大丈夫です。
+
+
 * [第21回 2016/4/24 10:00 - 16:00](http://tokushimarb.connpass.com/event/29323/) ([Facebook](https://www.facebook.com/events/245731429106575/)) @ [ねすとラボ](http://nest-lab.net)
 * [第20回 2016/3/27 10:00 - 16:00](http://tokushimarb.connpass.com/event/27870/) ([Facebook](https://www.facebook.com/events/1702930069985573/)) @ [ねすとラボ](http://nest-lab.net)
 * [第19回 2016/2/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/26431/) ([Facebook](https://www.facebook.com/events/184437711917711/)) @ [ねすとラボ](http://nest-lab.net)
