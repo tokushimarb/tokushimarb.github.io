@@ -16,8 +16,9 @@ layout: index
 
 ## Events
 
-次回の Tokushima.rb は第22回 - 5月29日の開催です。
+次回の Tokushima.rb は第23回 - 6月26日の開催です。
 
+* [第23回 2016/6/26 10:00 - 16:00](http://tokushimarb.connpass.com/event/32936/) ([Facebook](https://www.facebook.com/events/940346659396671/)) @ [ねすとラボ](http://nest-lab.net)
 * [第22回 2016/5/29 10:00 - 16:00](http://tokushimarb.connpass.com/event/30941/) ([Facebook](https://www.facebook.com/events/1728161890730375/)) @ [ねすとラボ](http://nest-lab.net)
 * [第21回 2016/4/24 10:00 - 16:00](http://tokushimarb.connpass.com/event/29323/) ([Facebook](https://www.facebook.com/events/245731429106575/)) @ [ねすとラボ](http://nest-lab.net)
 * [第20回 2016/3/27 10:00 - 16:00](http://tokushimarb.connpass.com/event/27870/) ([Facebook](https://www.facebook.com/events/1702930069985573/)) @ [ねすとラボ](http://nest-lab.net)
