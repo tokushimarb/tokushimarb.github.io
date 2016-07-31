@@ -18,14 +18,14 @@ layout: index
 
 次回の Tokushima.rb は第25回 - 8月28日の開催です。
 
-* [第25回 2016/8/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/37021/) ([Facebook](https://www.facebook.com/events/157035268036285/)) @ [ねすとラボ](http://nest-lab.net)
-* [第24回 2016/7/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/35019/) ([Facebook](https://www.facebook.com/events/610716995754420/)) @ [ねすとラボ](http://nest-lab.net)
-* [第23回 2016/6/26 10:00 - 16:00](http://tokushimarb.connpass.com/event/32936/) ([Facebook](https://www.facebook.com/events/940346659396671/)) @ [ねすとラボ](http://nest-lab.net)
-* [第22回 2016/5/29 10:00 - 16:00](http://tokushimarb.connpass.com/event/30941/) ([Facebook](https://www.facebook.com/events/1728161890730375/)) @ [ねすとラボ](http://nest-lab.net)
-* [第21回 2016/4/24 10:00 - 16:00](http://tokushimarb.connpass.com/event/29323/) ([Facebook](https://www.facebook.com/events/245731429106575/)) @ [ねすとラボ](http://nest-lab.net)
-* [第20回 2016/3/27 10:00 - 16:00](http://tokushimarb.connpass.com/event/27870/) ([Facebook](https://www.facebook.com/events/1702930069985573/)) @ [ねすとラボ](http://nest-lab.net)
-* [第19回 2016/2/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/26431/) ([Facebook](https://www.facebook.com/events/184437711917711/)) @ [ねすとラボ](http://nest-lab.net)
-* [第18回 2016/1/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/24728/) ([Facebook](https://www.facebook.com/events/1699089430334454/)) @ [ねすとラボ](http://nest-lab.net)
+* [第25回 2016/8/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/37021/) ([Facebookで申し込む](https://www.facebook.com/events/157035268036285/)) @ [ねすとラボ](http://nest-lab.net)
+* [第24回 2016/7/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/35019/) ([Facebookで申し込む](https://www.facebook.com/events/610716995754420/)) @ [ねすとラボ](http://nest-lab.net)
+* [第23回 2016/6/26 10:00 - 16:00](http://tokushimarb.connpass.com/event/32936/) ([Facebookで申し込む](https://www.facebook.com/events/940346659396671/)) @ [ねすとラボ](http://nest-lab.net)
+* [第22回 2016/5/29 10:00 - 16:00](http://tokushimarb.connpass.com/event/30941/) ([Facebookで申し込む](https://www.facebook.com/events/1728161890730375/)) @ [ねすとラボ](http://nest-lab.net)
+* [第21回 2016/4/24 10:00 - 16:00](http://tokushimarb.connpass.com/event/29323/) ([Facebookで申し込む](https://www.facebook.com/events/245731429106575/)) @ [ねすとラボ](http://nest-lab.net)
+* [第20回 2016/3/27 10:00 - 16:00](http://tokushimarb.connpass.com/event/27870/) ([Facebookで申し込む](https://www.facebook.com/events/1702930069985573/)) @ [ねすとラボ](http://nest-lab.net)
+* [第19回 2016/2/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/26431/) ([Facebookで申し込む](https://www.facebook.com/events/184437711917711/)) @ [ねすとラボ](http://nest-lab.net)
+* [第18回 2016/1/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/24728/) ([Facebookで申し込む](https://www.facebook.com/events/1699089430334454/)) @ [ねすとラボ](http://nest-lab.net)
 * [2015 年の Tokushima.rb](2015.html)
 * [2014 年の Tokushima.rb](2014.html)
 
