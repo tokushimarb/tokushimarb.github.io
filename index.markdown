@@ -16,8 +16,9 @@ layout: index
 
 ## Events
 
-次回の Tokushima.rb は第26回 - 9月25日の開催です。
+次回の Tokushima.rb は第27回 - 10月30日の開催です。
 
+* 第27回 2016/10/30 10:00 - 16:00
 * [第26回 2016/9/25 10:00 - 16:00](http://tokushimarb.connpass.com/event/39014/) ([Facebookで申し込む](https://www.facebook.com/events/168459923588977/)) @ [ねすとラボ](http://nest-lab.net)
 * [第25回 2016/8/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/37021/) ([Facebookで申し込む](https://www.facebook.com/events/157035268036285/)) @ [ねすとラボ](http://nest-lab.net)
 * [第24回 2016/7/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/35019/) ([Facebookで申し込む](https://www.facebook.com/events/610716995754420/)) @ [ねすとラボ](http://nest-lab.net)
