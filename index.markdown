@@ -18,7 +18,8 @@ layout: index
 
 次回の Tokushima.rb は第27回 - 10月30日の開催です。
 
-* 第27回 2016/10/30 10:00 - 16:00
+* [第28回 2016/11/27 10:00 - 16:00](http://tokushimarb.connpass.com/event/44166/)([Facebookで申>し込む](https://www.facebook.com/events/1849587881953617/)) @ [ねすとラボ](http://nest-lab.net)
+* [第27回 2016/10/30 10:00 - 16:00](http://tokushimarb.connpass.com/event/43199/)([Facebookで申>し込む](https://www.facebook.com/events/1040443542745382/)) @ [ねすとラボ](http://nest-lab.net)
 * [第26回 2016/9/25 10:00 - 16:00](http://tokushimarb.connpass.com/event/39014/) ([Facebookで申し込む](https://www.facebook.com/events/168459923588977/)) @ [ねすとラボ](http://nest-lab.net)
 * [第25回 2016/8/28 10:00 - 16:00](http://tokushimarb.connpass.com/event/37021/) ([Facebookで申し込む](https://www.facebook.com/events/157035268036285/)) @ [ねすとラボ](http://nest-lab.net)
 * [第24回 2016/7/31 10:00 - 16:00](http://tokushimarb.connpass.com/event/35019/) ([Facebookで申し込む](https://www.facebook.com/events/610716995754420/)) @ [ねすとラボ](http://nest-lab.net)
