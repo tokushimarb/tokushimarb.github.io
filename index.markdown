@@ -4,10 +4,6 @@ layout: index
 
 ## Tokushima.rb
 
-緊急告知！
-第31回Tokushima.rbは[SideCI](https://sideci.com/)様が協賛していただけることとなり、飲食費が無料です。
-
-
 徳島県内における Ruby の普及を目的に、
 毎月、徳島マルシェの開催される最終日曜日の 10:00 〜 16:00 に、[ねすとラボ](http://nest-lab.net) でゆる〜く開催しています。
 
