@@ -30,6 +30,7 @@ layout: index
 * [第32回 2017/3/26 10:00 - 16:00](https://tokushimarb.connpass.com/event/52129/)([Facebookで申し込む](https://www.facebook.com/events/289820274781596/)) @ [ねすとラボ](http://nest-lab.net)
 * [第31回 2017/2/26 10:00 - 16:00](https://tokushimarb.connpass.com/event/49959/)([Facebookで申し込む](https://www.facebook.com/events/244002002710692/)) @ [ねすとラボ](http://nest-lab.net)
 * [第30回 2017/1/29 10:00 - 16:00](https://tokushimarb.connpass.com/event/48081/)([Facebookで申し込む](https://www.facebook.com/events/396651817343020/)) @ [ねすとラボ](http://nest-lab.net)
+* [2016 年の Tokushima.rb](2016.html)
 * [2015 年の Tokushima.rb](2015.html)
 * [2014 年の Tokushima.rb](2014.html)
 
