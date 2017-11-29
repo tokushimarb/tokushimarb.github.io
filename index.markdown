@@ -16,8 +16,9 @@ layout: index
 
 ## Events
 
-次回の Tokushima.rb は第40回 - 11月26日の開催です。
+次回の Tokushima.rb は第41回 - 12月24日の開催です。
 
+* [第41回 2017/12/24 10:00 - 16:00](https://tokushimarb.connpass.com/event/73217/)([Facebookで申し込む](https://www.facebook.com/events/377810489327907/)) @ [ねすとラボ](http://nest-lab.net)
 * [第40回 2017/11/26 10:00 - 16:00](https://tokushimarb.connpass.com/event/70858/)([Facebookで申し込む](https://www.facebook.com/events/392476457836312/)) @ [ねすとラボ](http://nest-lab.net)
 * [第39回 2017/10/29 10:00 - 16:00](https://tokushimarb.connpass.com/event/68410/)([Facebookで申し込む](https://www.facebook.com/events/149537682316096/)) @ [ねすとラボ](http://nest-lab.net)
 * [第38回 2017/10/01 10:00 - 16:00](https://tokushimarb.connpass.com/event/65557/)([Facebookで申し込む](https://www.facebook.com/events/208114969723230/)) @ [ねすとラボ](http://nest-lab.net)
